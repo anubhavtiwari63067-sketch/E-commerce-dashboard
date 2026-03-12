@@ -1,4 +1,3 @@
-# E-commerce-dashboard
 # E-commerce Dashboard - Project Information & Todo List
 
 ## 📋 Project Overview
