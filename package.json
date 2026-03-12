@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-ai-dashboard",
+  "version": "1.0.0",
+  "description": "AI-powered E-commerce Admin Dashboard",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && node server.js",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": ["ecommerce", "dashboard", "ai", "react", "nodejs"],
+  "author": "Admin",
+  "license": "MIT"
+}
